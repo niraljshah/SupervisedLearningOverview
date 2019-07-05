@@ -1,5 +1,7 @@
-Performance Overview of Supervised Learning methods 
+Performance Overview of Supervised Learning methods
 ====================================================
+
+## pip install BasicAnalysis
 
 A small task of creating and uploading a pip-installable Python package, and by no means
 a substitute for `reading the documentation <https://packaging.python.org/tutorials/distributing-packages>`_, even

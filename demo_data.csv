@@ -1,0 +1,1101 @@
+inputs.state,inputs.street,inputs.city,inputs.post_code,inputs.safety_flag
+FL,3160 Otto Dr,Lakeland,33812-5237,False
+IN,940 Tulip Dr,Indianapolis,46227,False
+VA,68 Rocky Top Rd,Troutville,24175-6054,False
+OH,3330 Taylor Blair Rd,West Jefferson,43162,False
+FL,4254 Eagle Landing Parkway,Orange Park,32065,False
+MA,140 commonwealth avenue,Chestnut Hill,2467,False
+MN,1644 pebble creek drive,sartell,56377,False
+WI,29004 112th Pl,Trevor,53179,False
+NC,3649 North Olivers Cross Road,Newton,28658,False
+CO,3031 S Cherokee St,Englewood,80110,False
+CA,2385 Burgundy Way,Fairfield,94533-6834,False
+MN,5956 Sunny Ln,Duluth,55811-9729,False
+NY,9725 64th Ave,Rego Park,11374-2213,False
+NH,16 Belknap St,Laconia,03246-2701,False
+FL,8215 SW 72nd Ave,Miami,33143-7790,False
+CA,27475 Ynez Rd Ste 726,Temecula,92591-4633,False
+FL,2633 Walden Ct,Kissimmee,34743-6038,False
+NC,322 Westgrove Ct,Durham,27703-8957,False
+CA,70 Fountainhead Ct,Martinez,94553-4964,False
+CA,3418 Woodruff Ave,Long Beach,90808-2735,False
+FL,355 NE 30th Ave,Homestead,33033-7089,False
+CA,8098 Carnation Dr,Buena Park,90620-2111,False
+CT,9 Ferris Ave,Norwalk,06854-1548,False
+CA,14472 Rath St,La Puente,91744-1743,False
+MD,507 Benforest Dr,Severna Park,21146-1731,False
+OH,10066 Ohio 48,Loveland,45140,False
+NJ,254 Winding Hill Dr,Hackettstown,07840-5698,False
+KY,120 East Main Street,Lexington,40507,False
+CA,12357 Doran Pl,North Hollywood,91605-3018,False
+WA,19230 Forest Park Dr NE Apt H126,Lake Forest Park,98155-2467,False
+IA,1005 S 10th St,Burlington,52601-5913,False
+OH,114 Private Road 2482,South Point,45680,False
+WI,933 28th St,Chetek,54728,False
+CO,6951 Aruba Ln,FORT COLLINS,80525,False
+CA,375 E Ramona Expressway,Perris,92571,False
+FL,3723 Pacific Breeze Circle,Fort Lauderdale,33309,True
+LA,5000 Woodland Dr,New Orleans,70131,False
+CA,1939 109th ave,oakland,94603,False
+FL,2481 Bell Ridge Dr,Crestview,32536,False
+NY,170 north 5th st,brooklyn,11211,False
+GA,1670 Granville Court,Lawrenceville,30043,False
+GA,993 Dassow Ct,Alpharetta,30009,False
+IL,1718 Beloit Dr,Naperville,60565-6739,False
+CA,58 Grand Canyon Cir,Oakley,94561-5229,False
+MD,43 Blister St,Middle River,21220-4604,False
+VA,22219 Jewell Dr,Bristol,24202-2773,False
+CT,30 Liberty Sq,Bloomfield,6002,False
+TX,3711 Bright Moon Ct,Katy,77449-2145,False
+OH,1017 Worden Road,Wickliffe,44092,False
+OH,1231 Maple Leaf Ct,Sidney,45365-3465,False
+IL,2703 Clarence Ave,Berwyn,60402-2779,False
+TX,11822 Varnell St,Houston,77039-6135,False
+FL,268 Ocean Cay Boulevard,St. Augustine,32080,False
+IL,4950 S King Dr Apt 3E,Chicago,60615-2374,False
+CA,849 sequoia ave,Sanger,93657,True
+AZ,25982 W Potter Dr,Buckeye,85396-7241,False
+IA,4627 1st Avenue SW,Cedar Rapids,52405,False
+CA,4948 olive street,Montclair,91763,False
+NY,323 Peck Road,Wynantskill,12198,False
+NY,50 Oak Dr,Hopewell Junction,12533,True
+MA,53 Flint St,Somerville,02145-4123,False
+MA,113 Parker St,Maynard,01754-2119,False
+TX,111 kingsway,Del rio,78840,False
+TX,710 Ashton,Cactus,79013,True
+CA,11081 Fuchsia ct,Adelanto,92301,False
+FL,6290 NW 173rd St,Hialeah,33015-4567,False
+TX,3404 97th St,Lubbock,79423-3843,False
+DE,308 N Margaret St,Georgetown,19947-2316,False
+CA,17474 Ehle St,Castro Valley,94546-3824,False
+WA,1501 NW 56th St,Seattle,98107,False
+TX,1804 Uruapan Plz,Dallas,75211,False
+TX,3301 Hudnall St Apt 3301,Dallas,75235,False
+MI,11705 Sycamore Dr,Plymouth,48170,False
+MN,12420 County Road 150,Kimball,55353-2739,True
+IN,17517 Merlin Drive,Lowell,46356,False
+TX,6222 Ladera Dr,Houston,77083-1423,True
+NY,14168 85th Rd Apt 6B,Briarwood,11435-2590,False
+FL,23509 NELSON AVE,PORT CHARLOTTE,33954,False
+RI,131 Washington Street,Providence,2903,False
+IL,1202 W Washington St,Champaign,61821-2625,False
+RI,4040 Mendon Rd,Cumberland,02864-1814,False
+CA,780 Beechwood Dr,Daly City,94015-3704,False
+TX,150 Dominion Park Dr Apt 908,Houston,77090-6739,False
+IL,8840 Hickory Dr,Orland Hills,60487-7215,False
+NY,39 Dongan St,Staten Island,10310-1219,False
+OR,1570 Alderwood Street,Eugene,97404,False
+NJ,397 Berkeley Ave,Bloomfield,07003-5001,False
+AR,3762 Highway 101,Gamaliel,72537-9513,False
+HI,1145 Wainiha St,Honolulu,96825-2652,False
+CO,9611 Keystone Trl,Parker,80134-3357,False
+NJ,10 Bergen Ct,Bayonne,07002-2125,False
+TX,3812 Cedar Spring Dr,Midland,79703-6416,False
+IL,24 Oriole Ln,Glendale Heights,60139,False
+MA,55 Forestdale Dr,Somerset,02726-4718,False
+PA,48 Crossland Trail,Fairfield,17320,False
+MI,2064 S Elms Rd,Swartz Creek,48473-9728,False
+SC,315 Saint Andrews Lane,Myrtle Beach,29588,False
+TX,12802 Rockford Dr,Houston,77048-4162,False
+OH,10397 Golden Ridge Dr,Wadsworth,44281-8648,False
+TX,1332 Grey Oak Dr,San Antonio,78213,False
+CA,8279 Tapia Via Dr,Rancho Cucamonga,91730-3132,False
+MD,733 Shelby Dr,Oxon Hill,20745-1114,False
+IL,2125 Wentworth Ave,Rockford,61108-8023,False
+WA,11727 47th Ave NE Unit A,Marysville,98271-8374,False
+IL,37541 N. North Ave.,Beach Park,60087,False
+CT,15 Shore Road,Old Greenwich,6870,False
+NY,600 E 137th St,Bronx,10454-3118,False
+AZ,4343 E Princeton Ave,Gilbert,85234-7627,False
+CA,2425 Channing Way,Berkeley,94704-2260,False
+NY,79 East Seacrest Avenue,Lindenhurst,11757,False
+VA,250 S Whiting St,Alexandria,22304,False
+LA,5296 Highway 507,Coushatta,71019,True
+CT,154 Mechanic St,Danielson,06239-1918,False
+CA,24312 Via Las Junitas,Murrieta,92562,False
+TX,10743 Gail Pl,Socorro,79927-3819,False
+LA,1886 Otis St,Harvey,70058-4915,False
+AL,1985 Lee rd 137 Apt A,Auburn,36832,False
+TN,2149 Woodbury Hwy,Manchester,37355-3525,False
+VA,2916 Sandy Grove Ct,Richmond,23223-1500,False
+AL,655 Barrie Ln,Berry,35546-2449,False
+OH,2004 Thornhill Dr,Akron,44313-5314,False
+CA,2534 Greenstone Ct,San Jose,95122-1153,False
+MA,180 Kennedy Dr. Apt 511,Malden,2148,False
+MD,7736 Maple Ave,Takoma Park,20912,False
+TX,3202 Gary Ln,Spring,77380-1208,False
+TX,3707 Shadow Wick Ln,Houston,77082-5659,False
+MD,710 Burnt Mills Ave,Silver Spring,20901-1443,False
+NY,354 Magnolia Dr,Selden,11784-1323,False
+NC,415 Ferrell Ave,Charlotte,28216-3186,True
+WY,11 Sara Ct.,Laramie,82070,False
+VA,447 Little Sorrel Dr,Strasburg,22657-3610,False
+AZ,16739 W Yavapai St,Goodyear,85338-7343,False
+AL,506 Harrison Rd,Prattville,36067-4443,False
+TX,114 S Imperial Dr,Denison,75020-3535,False
+MD,20331 gentle way,montgomery village,20886,False
+MI,8252 Woodland Shore Drive,Brighton,48114,False
+KY,203 Carlisle Rd,Hartford,42347-1841,False
+GA,2443 Folsom Street,Snellville,30078,False
+GA,1702 Lancaster Creek Cir SW,Conyers,30094-5817,False
+PA,126 Sylvan Drive,Broomall,19008,False
+TX,1006 grey fox cir,brownsville,78520,False
+CO,811 Downing Way,Denver,80229-5918,False
+TX,1062 Calm Breeze,New Braunfels,78130-4451,False
+VA,433 Jefferson Dr,Palmyra,22963-2808,False
+TX,5306 Fairtide Drive,Baytown,77521,False
+NV,4320 Gannet Cir apt 113,Las Vegas,89103,True
+IL,7131 N Riverside Dr,Niles,60714,False
+PA,34 Prospect Rd,Sugarloaf,18249-3623,False
+IN,1007 W Deer Creek Dr,Brazil,47834-7919,False
+TX,19811 Arbor Creek Dr,Katy,77449-6168,False
+CA,14903 Bridal Trail Circle,Eastvale,92880,False
+CA,1713 Canard Ave,Placentia,92870-2410,True
+IL,18361 W Woodland Ter,Gurnee,60031-1532,False
+NE,74741 E Rd,Overton,68863-5805,False
+IL,7809 Commercial St,Harvard,60033,False
+MD,2026 Bedford Dr,Jb Andrews,20762-5496,False
+NY,52 riverdale ave,Port Chester,10573,True
+CA,23734 Morning Glory Dr,Murrieta,92562-6052,True
+OH,956 Drayson Dr,Galloway,43119,False
+TX,2825 Ellis Ave,Fort Worth,76106-7105,False
+IL,930 Autumn Lane,Aurora,60505,False
+NY,23 Stanley Rd.,Garnerville,10923,False
+CA,15884 Grevillea St,Fontana,92335-5416,False
+MI,96 S Washington St,Oxford,48371-4974,False
+IL,4451 N Kilbourn Ave,Chicago,60630,False
+LA,4108 Olivia Dr,Addis,70710-3043,False
+TX,203 Grantham Dr,San Antonio,78218-4223,False
+CA,1155 Ravenna Ave,Wilmington,90744-3165,False
+CA,6800 Wyndham Dr Apt T1,Sacramento,95823-4920,False
+CA,515 W Duarte Rd,Arcadia,91007-7326,False
+NY,2944 Beach Channel Drive,Far Rockaway,11691,False
+TX,6101 Gateway West Blvd Apt 207,El Paso,79925,False
+TX,2506 Stonebury Ln,Sugar Land,77479-5488,False
+GA,1054 Hodges Way,Stone Mountain,30087-2960,False
+NJ,585 Eder ave,Wyckoff,7481,False
+IN,117 McConnell Dr,New Albany,47150-2000,False
+TX,4501 Weathersfield Ct.,League City,77573,False
+CA,10424 Siltstone Way,Elk Grove,95757-1669,False
+NY,85-18 125th Street,Kew Gardens,11415,False
+CO,1435 N pearl St,Denver,80203,False
+NY,62 Stephen Place,Valley Stream,11580,False
+CA,405 S Conejo Ave,Modesto,95354-3837,False
+CA,3960 SWEEPSTAKES DR,RIVERBANK,95367,False
+NV,1158 Teal point dr.,Henderson,89074,False
+FL,950 39th Ave N,Saint Petersburg,33703-4520,False
+NH,60 Windy Acres Rd,Charlestown,03603-4226,False
+NC,3725 Sandy Ridge Farm Rd,La Grange,28551-6708,False
+MT,401 bridger view,Belgrade,59715,False
+TX,1821 County Road 474,Kirbyville,75956-4245,False
+FL,11901 NW 42nd ST,Sunrise,33323,False
+TX,1800 Pecan Lake Dr,Richmond,77406-9673,False
+DE,374 India Drive,Smyrna,19977,False
+GA,543 Picketts Bend Cir,Marietta,30008-3269,False
+NC,1809 Colonial Ave,Greensboro,27408,False
+FL,642 Vardon Ave,Deltona,32738-9092,False
+WA,10848 Orchard Ave SE,Olalla,98359,False
+AR,127 Plumdale Dr,Sherwood,72120-3265,False
+FL,2206 Chaney Dr. #240,Ruskin,33570,False
+NC,192 Thousand Trails Dr,Advance,27006-7082,True
+NY,253 Oelkers St,N Tonawanda,14120,False
+MS,1026 Polk St,Vicksburg,39180-5020,False
+GA,125 Shady Glen Ln,Albany,31721-9538,False
+CA,1450 Market Street,San Diego,92101,False
+IL,11731 Ventura Blvd,Machesney Park,61115-1072,False
+TX,23315 S Breeze St,San Antonio,78258-7313,False
+SC,19 Doctors Lane,St. Helena Island,29920,False
+WA,"1562 E OLIVE WAY, APT 108",Seattle,98102,False
+NY,8059 88th Rd,Woodhaven,11421-2423,False
+CA,624 Salem Way,Stockton,95207-7714,False
+LA,168 Belle Isle Drive,Thibodaux,70301,False
+TX,1147 Pine Portage Loop,Leander,78641-2022,False
+FL,1803 Plata Ct,Rockledge,32955,False
+CA,1425 N Rosemore Ave,Modesto,95358-1344,False
+CA,3171 Clairemont Dr,SAN DIEGO,92117,False
+CA,12277 Kirkwood St,Herald,95638-9765,False
+OK,1111 S Oakwood Rd,Enid,73703-6273,False
+PA,3204 Sylvan Drive,Thorndale,19372,False
+VA,478 Whitmore Town Rd,Crewe,23930-3728,False
+IL,221 West Burnett Road,Island Lake,60042,False
+NY,"167 East Broadway, Apt 12",New York City,10002,False
+CA,1099 Nowita Pl,Venice,90291-3518,False
+CO,3 Twilight Ln,Pueblo,81005-1031,True
+CA,9696 Philta Way,Elk Grove,95757-6202,False
+TX,219 Live Oak Drive,Hudson Oaks,76087,False
+TX,5900 Chimney Wood Cir,Fort Worth,76112-3031,False
+VA,850 Crawford pkwy apt 4214,Portsmouth,23704,False
+CA,12201 Boessow Rd,Galt,95632-8330,False
+NE,1707 Towle St,Falls City,68355-1952,False
+GA,401 N Cromwell Rd,Savannah,31410-3847,False
+GA,3728 Mays Xing SW,Atlanta,30331-2058,False
+FL,600 SW 71st Way,Pembroke Pines,33023-1065,False
+NE,4234 Arizona Ave,Grand Island,68803,False
+WY,2350 Reagan Ave.,Rock Springs,82901,False
+TX,740 Persimmon Hl,Bulverde,78163,False
+NJ,100 Sterling Blvd,Englewood,07631-4813,False
+GA,1129 Sandpit Road,Mauk,31058,False
+CA,1227D Northpoint Dr,San Francisco,94130-1103,True
+OR,3801 NE 81st Ave.,Portland,97213,False
+OR,4124 SW Tunnelwood St,Portland,97221-3745,False
+TX,5006 Cedar Springs Rd,Dallas,75235-8790,False
+CA,20624 Eyota Rd,Apple Valley,92308-6338,False
+TN,2999 Smith Springs Rd,Nashville,37217-4409,False
+MI,228 E Buena Vista St,Highland Park,48203-3348,True
+KS,2621 Cranley St,Lawrence,66046-5307,False
+NY,2254 CEDAR AVE APT E,BRONX,10468,False
+MT,212 W Corcoran st,Lewistown,59457,False
+CA,9006 Aylesford ln,Stockton,95210,False
+WI,2709 E Shorewood Blvd,Milwaukee,53211-2459,False
+CA,1065 Coriander Dr,Brentwood,94513,False
+CO,4764 W Tufts Cir,Denver,80236-3388,False
+MD,6203 summerhill road,temple hills,20748,False
+FL,609 6th st N,St PETERSBURG,33701,False
+WA,2038 Marvin Rd SE,Olympia,98503,False
+CA,415 Tyler Pl,Salinas,93906-3676,False
+IA,1413 South Hennepin Street,Sioux City,51106,False
+AZ,368 Via Aloe Vera,Rio Rico,85648-2961,False
+CO,13650 East Colfax Avenue,Aurora,80011,False
+CT,107 Tunxis Ave,Bloomfield,06002-2005,False
+KY,5510 Robinwood rd,Louisville,40218,False
+FL,954 Waverly Dr,Longwood,32750,False
+CA,81 Center St,Chula Vista,91910-3154,False
+CA,8528 Brisenbourg Way,Antelope,95843,False
+VA,12854 Fantasia Dr,Herndon,20170-2945,False
+MO,5412 Baseline Place,Columbia,65203,False
+IL,810 S Pleasant St,Peoria,61604-5975,False
+ID,3100 Owyhee Street,Pocatello,83201,False
+MO,1104 W College St,Independence,64050-2408,False
+TX,3916 Twin Falls St,Irving,75062-2907,False
+FL,4477 NW 185th St,Miami Gardens,33055-3080,False
+MA,12 Cypress Ave,Methuen,01844-4840,False
+CA,2111 Alcazar Way,Stockton,95209-2405,False
+NY,3400 Paul Ave,Bronx,10468-1015,False
+WA,1132 S 60th St,Tacoma,98408-3435,False
+CA,1043 Normandy Ter,Corona,92880-1319,False
+NY,577 FDR Drive,New York,10002,False
+DC,1345 South Capitol Street Southwest,Washington,20003,False
+CA,8760 Center PKWY,Elk Grove,95758,False
+MD,5810 30th Ave,Hyattsville,20782-3103,False
+UT,2418 N 1050 W,Clinton,84015,False
+VA,9418 Spotsylvania Street,Manassas,20110,False
+IN,433 E 54th St,Anderson,46013-1739,False
+AZ,5972 E Juarez St,Tucson,85711-6035,False
+NY,143 Farmedge Rd,Levittown,11756,False
+TN,356 Montgomery Rd,Lancing,37770-3204,False
+AZ,1333 W Guadalupe Rd.,Gilbert,85233,False
+GA,437 Hampton Green Dr,Lagrange,30240-7736,False
+MS,24973 Highway 35,Vaiden,39176-9553,False
+FL,1754 Linda Lakes Ln.,Middleburg,32068,False
+TX,11211 Crossland Drive,Austin,78726,False
+MO,31426 Lee Rd,Sedalia,65301-1712,False
+IL,3530 N Southport Ave,chicago,60657,False
+NC,110 KINGSDOWN AVE,CHARLOTTE,28270,False
+IL,3850 W 64th Place,Chicago,60629,False
+AR,303 Emma dr,Brookland,72417,False
+CA,342 Helena Way,Madera,93637-5712,False
+MA,40 Roy St,Swampscott,01907-6005,False
+CA,33300 Mission Blvd,Union City,94587-1444,False
+CA,1838 22nd St,Santa Monica,90404-3928,False
+IL,5111 W School St,Chicago,60641-4229,False
+NY,108 E Clarke Pl Apt 47A,Bronx,10452-7623,False
+MD,6105 39th Pl,Hyattsville,20782-3009,False
+RI,169 Railroad Ave,Harrisville,02830-1304,False
+NC,1020 Comstock DR,Charlotte,28217,False
+CA,13930 Chadron Ave,Hawthorne,90250-8285,False
+TX,5012 Byers Ave,Fort Worth,76107-3626,False
+FL,2520 Greywall Ave,Ocoee,34761-8932,False
+AZ,1519 E Calle Salamanca,Tucson,85714-3117,False
+FL,2583 Edmond Cir,Auburndale,33823-4804,False
+NY,380 E 143rd St,Bronx,10454-1234,False
+CT,269 Old Stagecoach Rd,Meriden,06450-6651,False
+TX,10818 Huffmeister Road,Houston,77065,False
+PA,94 Valley Stream Park,Mountain Top,18707-9048,False
+AL,524 Commerce St,Jackson,36545,False
+NY,1646 1st Ave,New York,10028-4632,False
+FL,19962 SW 96th Pl,Dunnellon,34432-4112,False
+NV,3836 Carisbrook Ave,North Las Vegas,89081,False
+NY,281 County Highway 32A,Cherry Valley,13320,False
+RI,15 Hall Ave,Warren,2885,False
+CA,1002 Calle Frondosa,San Dimas,91773,False
+OK,4205 cunningham dr,Okc,73170,True
+CA,4223 East 10th Street,Long Beach,90804,False
+MI,715 Clinton River Dr,Mount Clemens,48043-2489,False
+MO,7507Abingdon Abingdon Way Court,St. Louis,63129,False
+SC,1724 Hunters Trl,Rock Hill,29732-1759,False
+PA,201 Andrew Road,Coatesville,19320,False
+MD,1820 Rudolph Ln,Lusby,20657-4040,False
+SC,455 Sunnehanna Drive #544,Myrtle Beach,29588,False
+NM,31 Nambe West,Santa Fe,87508,False
+VA,2426 Tullibee Drive,Norfolk,23518,False
+NC,336 Benge Dr,Elkin,28621,False
+LA,9404 Royalton Dr,Shreveport,71118-3613,False
+IL,347 W Chestnut St,Chicago,60610,False
+CA,1707 Sacramento St,Berkeley,94702-1501,False
+PA,410 E Locust St,Fleetwood,19522-1609,False
+NY,4910 Kraus Road,Clarence,14031,False
+TN,513 Old Lincoln Rd,Fayetteville,37334-6833,False
+NM,2607 Garner Rd SW,Albuquerque,87105-6780,False
+MD,633 Water Street,Friendsville,21531,False
+NJ,349 N Main St,Milltown,08850-1441,False
+CA,35 Wood St,San Francisco,94118,False
+NV,3054 Villanelle Ave,Henderson,89044,False
+CA,9603 East Avenue R 14,Littlerock,93543,False
+NC,2514 Shepherd Valley Street,Raleigh,27610,False
+NY,851 E 215th St,Bronx,10467-5812,False
+CT,1 Acre Dr,Danbury,6811,False
+TX,4437 Central Lane,Balch Springs,75180,False
+CA,13100 Norris Ave,Sylmar,91342,False
+IL,5624 S Menard Ave,Chicago,60638-3730,False
+FL,1633 Salerno Cir,Weston,33327-1901,False
+CO,3100 South Cherokee Street,Englewood,80110,False
+FL,6633 Laxey Ct,Zephyrhills,33541-2853,False
+CA,12202 Lotus Vine Street,Bakersfield,93311,True
+FL,7328 Ambleside Dr,Land o Lakes,34637-7566,False
+MA,7 Taunton St,Plainville,02762-2173,False
+CA,7626 Marsh Ave,Rosemead,91770-3424,False
+MI,2702 Sligo Ln,Brighton,48114-8133,False
+WA,107 North Chinook Street,Moxee,98936,False
+CA,609 fairhaven Way,Novato,94947,False
+AZ,577 E Park Ave,Gilbert,85234-5893,False
+CA,1559 N 1st Ave,Upland,91786-2308,False
+CA,5375 Shattuck Ave,Fremont,94555,False
+MI,47995 Candace Ln,Canton,48187,False
+TX,14419 Brunswick Point Lane,Houston,77047,False
+CA,15731 Bernardo Heights Parkway,San Diego,92128,False
+TX,903 Loganwood Avenue,Richardson,75080,False
+SC,23 Mayfair Dr,Bluffton,29910,False
+DC,210 Oakwood Street SE Apt. 302,Washington,20032,False
+MD,1354 Sweetbriar Lane,Bel Air,21014,False
+PA,200 3rd Street,Shoemakersville,19555,False
+CT,692 Milford Point Road,Milford,6460,False
+FL,2928 SE 2nd St,Homestead,33033-7318,False
+NY,17 West 108st,New York,10025,False
+FL,8820 NW 78th Ct,Tamarac,33321-1463,False
+CA,1003 N Sandalwood Ave,Rialto,92376-3899,False
+IL,709 Marsha Ln,Rock Falls,61071-1861,False
+TX,4204 US Highway 80 E,Mesquite,75149,False
+AZ,512 W Riverside Dr,Parker,85344,False
+CA,1261 Southwick Ln,Lincoln,95648-8028,False
+IL,4607 N Monticello Ave,Chicago,60625-6405,False
+LA,40131 Holland Rd,Ponchatoula,70454-6719,False
+IL,111 W Polk St Apt 510,Chicago,60605-2090,False
+NY,111 Stroud St,Canastota,13032-1423,False
+LA,6827 Hwy 6,Natchitoches,71457,False
+OH,15262 Hoyle Rd,Berlin Center,44401-9785,False
+IL,357 Meadowsedge Dr,Woodstock,60098-3665,False
+GA,101 Aberdeen Circle,Cordele,31015,False
+FL,3868 Boot Bay Rd,Plant City,33563-1334,False
+TX,7073 Bramblebush Dr,Frisco,75033-3838,False
+MA,29 Meadow Lane,Westford,1886,False
+FL,2214 E 113th Ave,Tampa,33612-6249,False
+MN,10762 Kingsfield Ln,Saint Paul,55129-8349,False
+NY,473 W 21st St,New York,10011-2943,False
+WA,24310 2nd Place West,Bothell,98021,False
+LA,2313 Transcontinental Dr,Metairie,70001-1024,False
+IL,850 E Old Willow Rd,Prospect Heights,60070-2118,False
+NY,23-88 28th Street,Queens,11105,False
+OH,2504 Skagway Dr,Northwood,43619-2020,False
+MA,66 Grant St,West Bridgewater,02379-1218,False
+IA,687 Franklin Ave,Council Bluffs,51503-4912,False
+TX,5847 Morningside Ave,Dallas,75206-5919,True
+NY,107 Chapel Street,Mount Morris,14510,False
+GA,101 Saint George blvd,Savannah,31419,False
+NY,4439 Third Ave,Bronx,10457,False
+GA,20 THACKERY PL Apt. 4,Savannah,31405,False
+WA,9007 18th Avenue Southwest,Seattle,98106,False
+PA,112 S 16th st,Camp Hill,17011,False
+NV,9025 Ochoa St,Las Vegas,89143-5452,False
+NC,102 Parkway Lane,Havelock,28532,False
+AZ,2777 S. Arizona Ave #1005,CHANDLER,85286,False
+LA,239 Friedrichs Rd,Gretna,70056-3883,True
+CA,2869 N Arrowhead Ave,San Bernardino,92405-3407,False
+MD,203 Sherwood Ave,Pikesville,21208,False
+TN,1300 Golf Course Rd,Newport,37821-7111,False
+AR,19 mockingbird lane,vilonia,72173,False
+KS,227 North St,Carbondale,66414,False
+IN,416 Lake Ridge Dr,Henryville,47126-8692,False
+GA,1330 Waverland Dr,Macon,31211-1324,False
+TX,6404 Candletree Lane,McKinney,75070,False
+OH,1420 Peachtree Drive,Ashland,44805,False
+VA,1420 Riverside Dr,Virginia Beach,23453-1707,False
+PA,6 Olivia`s Court,Frackville,17931,False
+TX,1771 Virginia St,Shepherd,77371-2857,False
+MN,13734 Fordham Ave,Saint Paul,55124-5605,False
+TX,4913 Olivia Lane,Wichita Falls,76310,False
+PA,80 S Loveland Ave,Kingston,18704-4545,False
+KY,190 vanover Rd w,London,40744,False
+CO,10895 Touchstone Loop,Parker,80134,False
+ND,530 Tulane Dr Apt 18,Grand Forks,58203-2792,False
+TX,805 Orange Heights Dr,Harlingen,78550-4118,False
+NJ,314 Clayton Road,WILLIAMSTOWN,8094,True
+IL,1729 Old Wood Rd,Rockford,61107,False
+IL,761 Taylor st,Morton,61550,False
+FL,2530 Citrus Tower Blvd,Clermont,34711-6926,False
+TX,10025 Waterstone Way,McKinney,75072,False
+NY,176 Commonwealth Ave,Buffalo,14216-2308,False
+LA,3209 Roberta St,Metairie,70003-1751,False
+NY,8764 125th St,Richmond Hill,11418-2707,False
+CA,2525 Las Flores St,Alhambra,91803-4305,False
+CA,3231 Lilly Ave,Long Beach,90808-3245,False
+CA,20543 Wyandotte,Winnetka,91306,False
+WA,20102 Lower Crab Creek Rd SW,Beverly,99321-0300,False
+TX,7114 Robin Meadow St,Pearland,77581-8259,False
+PA,180 Chestnut Flat Rd,Shelocta,15774-7251,False
+WI,6978 N Braeburn Ln,Milwaukee,53209-2608,False
+RI,18 Adams Lane,Smithfield,2917,False
+CA,1742 E 122nd St,Los Angeles,90059-3030,False
+VA,15045 Jenkins Hill Lane,Culpeper,22701,False
+CA,23416 Petroleum Ave,Torrance,90502,False
+CA,1456 E Philadelphia St,Ontario,91761-5726,False
+NY,6127 167th St,Fresh Meadows,11365-1935,False
+CA,5036 Los Feliz Blvd,Los Angeles,90027-1741,True
+FL,164 Bonita St,Titusville,32780-8126,False
+TX,9100 ANDREWS hwy,Odessa,79765,False
+PA,1750 Hancock Ave,Apollo,15613-8401,False
+CA,5780 Friars Road,San Diego,92110,False
+TX,18211 Bulverde Road,San Antonio,78259,False
+OH,17112 Harris Rd,Defiance,43512,False
+MN,1718 Hickory Hill Dr,Eagan,55122-2410,False
+TN,1388 River Bank Dr,Collierville,38017,False
+PA,509 Hagey Place,Collegeville,19426,False
+CA,2443 Sierra Nevada Rd. #L2,Mammoth Lakes,93546,False
+MN,5640 N Danube Road,Fridley,55432,False
+GA,5542 Kingsport Dr,Atlanta,30342-1042,False
+TN,2108 Nunley Dr,Rockvale,37153,False
+CA,1809 Swan Falls Lane,Roseville,95661,False
+MI,"233 Fielding St, Apt B",Ferndale,48220,False
+MN,1614 14th Ave S,Saint Cloud,56301-5606,False
+IA,110 Prospect Dr,Ackley,50601-1813,False
+OH,1404 Evaline Drive,Columbus,43224,False
+NY,1 Broadway,Island Park,11558-1201,False
+DC,"301 G Street, SW #704",Washington,20024,False
+WY,106 2nd Ave,Evanston,82930-2555,False
+OR,12 N Sumner St,Portland,97217,False
+AL,206 Apache St,Winfield,35594-5401,False
+OH,2076 Industry Rd,Atwater,44201-9354,False
+FL,20332 Chestnut Grove Dr,Tampa,33647-3344,False
+ID,1820 N. FISK ST,Boise,83704,False
+IL,47 Ambassador Avenue,Romeoville,60446,False
+MI,44697 Greenbriar Dr,Van Buren Twp,48111-5162,False
+GA,568 Havenwood Rd,Blairsville,30512,True
+CA,827 Emory Ct,Merced,95341-5503,False
+IL,4346 Meadowlark Ct,Gurnee,60031-2762,False
+MS,10903 Road 397,Philadelphia,39350-5605,False
+CA,4083 Inniswood Pl,Dublin,94568,False
+NY,2534 WARNERS RD,Warners,13164,False
+TN,115 Heather Heights,Bradyville,37026,False
+MN,559 Newman Trl,Stillwater,55082-4529,False
+CA,10353 Alexander Ave,South Gate,90280-6732,False
+CA,412 10th Street,Manhattan Beach,90266,False
+IA,3400 7th st,Sioux city,51105,False
+SC,164 Bromley Village Dr,Fort Mill,29708-7041,False
+NJ,3 Barber Blvd,South Bound Brook,08880-1401,True
+CA,35 East Flower Street,Chula Vista,91910,False
+FL,4656 Westfield Rd,Jacksonville,32210,False
+CA,2780 Hidden Hills Way,Corona,92882,False
+GA,370 Heights Ln,Clayton,30525-4329,False
+FL,1250 SW 11th Ave Apt A404,Gainesville,32601-8276,False
+WA,3261 SW Avalon Way,Seattle,98126-2887,False
+NJ,25 Cook Rd,East Brunswick,8816,False
+LA,2653 Joseph Ave,Pineville,71360-6213,False
+OR,9900 Se Bell Ave,Milwaukie,97222,False
+TN,440 Arcaro Way,Cordova,38018-8304,False
+WA,4048 Wonderwood Ln SE,Lacey,98503-5549,False
+TX,1002 COOL CORNER CT,RICHMOND,77406,False
+NJ,410 Moore Blvd,Clayton,8312,False
+VA,44 Vine St,Greenville,24440-1776,True
+CA,771 Ramirez Rd,Marysville,95901-9444,False
+FL,12319 NW 148th Ave,Alachua,32615-4906,False
+FL,106 Lake Emerald Drive,Fort Lauderdale,33309,False
+AZ,141 W Portland St,Phoenix,85003-1466,False
+CA,895 Park Boulevard,San Diego,92101,False
+NJ,14 Seneca Trl,Sparta,07871-1514,False
+NC,181 Ruffin School Road,Ruffin,27326,False
+OH,10027 Flora Rd,Harrison,45030-8701,False
+AZ,7690 e Starla dr,Scottsdale,85255,False
+FL,511 pinewood drive,oldsmar,34677,False
+CA,15734 Rinaldi Street,Los Angeles,91344,False
+NY,34 Harmony Ln,Westbury,11590-6546,False
+PA,219 E Tabor Rd,Phila,19120-3024,False
+NY,210 Howell St,Bellmore,11710-3318,False
+CA,4405 Diamond Street,Capitola,95010,False
+NJ,1300 Avenue at Port Imper,Weehawken,7086,False
+WI,1515 Harris Dr,Grafton,53024-9019,False
+ID,77 Scriver Woods Rd,Garden Valley,83622-5011,False
+TX,924 Cherry Laurel Ln,Arlington,76012-4423,True
+MO,12 baxter lane,chesterfield,63017,False
+TX,4316 Yellowleaf Dr,Fort Worth,76133,False
+TN,108 Duncan St,Gallatin,37066-3669,False
+GA,4025 Glen Laurel Drive North,Valdosta,31605,False
+CA,600 Hosking Avenue,Bakersfield,93307,False
+NY,3166 Bainbridge Avenue,Bronx,10467,False
+TX,6855 Lahontan Dr,Fort Worth,76132-3039,True
+AL,107 County Road 29,Prattville,36067,False
+WA,2611 104th St E,Tacoma,98445-5313,False
+OH,408 Quarry St,Ashland,44805-3039,False
+TX,"2370 Victory Ave Dallas, TX 75219 United States",Dallas,75219,False
+NC,557 Coalyard Drive,Garner,27529,False
+CO,5205 S Meadow Lark Dr,Castle Rock,80109-8476,False
+DE,364 Norway Dr,Dover,19901-1940,False
+WA,2414 Northeast Confucius Way,Poulsbo,98370,False
+VA,1235 Rosemary Ln,Danville,24541-4151,False
+MD,1544 Dellsway Rd,Towson,21286,False
+PA,5 Manor View Circle,Malvern,19355,False
+CA,1973 Roanoke St,San Jacinto,92582-6918,False
+FL,3810 Southwest 59th Terrace,Davie,33314,False
+TX,204 Easy St,Silsbee,77656-3104,False
+NV,2907 Maverick Street,Las Vegas,89108,False
+TX,9001 S Braeswood Blvd,Houston,77074-2330,False
+PA,3142 Redding Run Rd,Home,15747-6917,False
+ME,339 Hancock Street,Bangor,4401,False
+MA,1 Country Hill Rd,Jefferson,01522-1173,False
+SC,1106 Old Mill Rd,Saint Stephen,29479-3000,False
+TX,937 Hobby Rd,Copperas Cove,76522-4439,False
+TX,1137 Paintbrush,Mesquite,75149,False
+TX,2009 29th St,Lubbock,79411-1517,False
+PA,31 N Central Ave,Jenkintown,19046-4213,False
+NC,565 Autry Rd,Clarkton,28433-8607,False
+OK,252 Rooks Nest Lane,Idabel,74745,False
+MI,7436 Hickory Ct,Cadillac,49601-9063,False
+VT,21 Mud Hollow Rd,Concord,5824,False
+AZ,838 E El Caminito Dr,Phoenix,85020-3459,False
+CA,2321 E Omaha Ave,Fresno,93720-0467,False
+PA,73 Pueblo Road,New Britain,18901,False
+OR,1935 Columbia St,Eugene,97403-1497,False
+CA,1 Puerto Nuevo,Lake Forest,92610,False
+NY,204 S Lackawanna St,Wayland,14572-1440,False
+IN,1215 N Wabash Ave,Kokomo,46901-2603,False
+LA,132 Jules Ln,Church Point,70525-7501,False
+CA,8444 Cortina Cir,Roseville,95678-2938,False
+ID,955 N Tubsgate Pl,Post Falls,83854-5764,False
+MD,10142 Cape Ann Dr,Columbia,21046-1344,False
+NJ,350 Warren Street,Jersey City,7302,False
+NJ,716 Brookside Rd,Rahway,07065-1807,False
+FL,514 Concha Dr,Sebastian,32958-6506,False
+NJ,187 Aster Ct,Whitehouse Station,08889-2033,False
+AL,902 43rd Ave,Phenix City,36869,False
+TX,800 Vista Valet,San Antonio,78216-1739,False
+NY,2238 State Highway 7,Troy,12180-9256,False
+NH,562 Main Street,Hampstead,3841,False
+TX,13102 Fallsview Ln,Houston,77077-3674,False
+CA,14215 pecan park lane sp 49,el cajon,92021,False
+SC,242 Sea Island Place,Green Pond,29446,False
+TX,1327 Iron Glen Dr,Temple,76502-2163,False
+KS,3908 Garland Ave,Leavenworth,66048-5539,False
+TX,22543 August Leaf Dr,Tomball,77375-5440,False
+NJ,283 Harrison Ave,Jersey City,07304-1729,False
+TX,4361 County Road 4316,Larue,75770-3164,False
+AZ,6324 W Beverly Ln,Glendale,85306,False
+FL,6910 W Waters Ave,Tampa,33634-2210,False
+AL,1762b CR 642,Mentone,35968,False
+IN,1535 Rhett Dr,Anderson,46013-2881,False
+FL,731 Lime Lane,Crestview,32536,False
+AZ,1601 E Highland Ave,Phoenix,85016-4691,False
+FL,168 Sunrise Dr,Tavernier,33070-2528,False
+KY,6355 Valley Brook Trce,Utica,42376-5000,False
+CA,202 W 121st St,Los Angeles,90061-1707,False
+AL,702 Crestview Dr,Madison,35758-1218,False
+TX,6867 Adrienne Arbor Dr,Spring,77389-2153,False
+MD,707 Faraway Ct,Bowie,20721-1824,False
+AZ,515 S O Leary St,Flagstaff,86001-5829,False
+TX,12530 Huntington Field Dr,Houston,77099-3614,False
+OH,2119 Deerfield St,Cincinnati,45206-2528,False
+CA,902 N Nopal st,Santa Barbara,93103,False
+CA,85523 Stacie ln,Coachella,92236,False
+CA,26927 Cherry Willow Dr,Santa Clarita,91387-1809,False
+IL,919 Leawood Dr,Joliet,60431-9384,False
+AZ,10982 E. Secret Mine Court,Gold Canyon,85118,False
+TX,1426 Oxford Meadows Dr,Houston,77073-2120,False
+FL,1470 W 37th St,Hialeah,33012-4737,False
+GA,1601 River Trce,Auburn,30011-3600,False
+GA,94 Partlow Rd,Royston,30662-7531,False
+GA,156 Elm Road,Glenwood,30428,False
+PA,910 Suffolk Dr,Lititz,17543-9215,False
+WI,1755 N 48th St,Milwaukee,53208-1712,False
+OH,908 N 6th Street,Cambridge,43725,False
+ID,301 E 40th St,Garden City,83714-6372,False
+IN,5530 Chisolm Trail,Indianapolis,46237,False
+FL,6320 Pecan Course,Ocala,34472,False
+NY,15 Yale Rd,East Patchogue,11772-4279,False
+CA,2791 W Stonybrook Dr,Anaheim,92804-4050,False
+TX,2439 N REDONDO AVE,ODESSA,79763,False
+MA,26A Mishawum Rd,Woburn,01801-2509,False
+NY,101-125 West 147th Street Apt. 3J,New York,10039,False
+GA,912 Lovvorn Rd,Carrollton,30117-2635,False
+WA,1321 w emerson st,Seattle,98119,False
+PA,75 Bendertown Road,Orangeville,17859,False
+AZ,7719 S 43rd Pl,Phoenix,85042-7330,False
+IL,607 NORTH AVE,AURORA,60505,False
+OH,108 W Main st,Malv,44644,False
+CA,401 N Magnolia Ave,Farmersville,93223-1618,False
+TX,7601 Daffan Ln,Austin,78724,False
+ND,13388 55th St SE,Enderlin,58027-9766,False
+NJ,115 Burkley Place,Union,7088,False
+IN,801 E Mishawaka Ave,Mishawaka,46545-6811,False
+NJ,209 York St,Jersey City,07302-3622,False
+FL,300 Venetian Dr,Clearwater,33755,False
+CT,20 Langner Ln,Wilton,06897-2608,False
+CO,907 ellston st,colorado springs,80907,True
+MN,400 Valley High Road,Burnsville,55337,False
+IL,505 W Marion St,Prospect Heights,60070,False
+DC,4000 Massachusetts Ave NW Apt 1624,Washington,20016-5138,False
+TX,3110 Woodfin Dr,San Antonio,78264-4624,False
+NC,322 Truxton Street,Kill Devil Hills,27948,False
+OR,501 Grizzly Street,Aumsville,97325,False
+TX,5634 Timber Star,San Antonio,78250-5923,False
+VT,51 Yorkshire Cir,Brattleboro,5301,False
+NY,7442 Sandy Hatch Rd,Chittenango,13037-9518,False
+NY,359 Capen Blvd,Buffalo,14226,False
+NY,262 Bayview Ave,Merrick,11566-4777,False
+UT,1343 Swan St,Ogden,84401-1923,False
+MA,127 Eastern Avenue,Gloucester,1930,False
+OH,2300 Auburn Ave,Cincinnati,45219,False
+NJ,326 Snyder Ave,Pitman,08071-2437,False
+TN,10144 Brussels Ln,Cordova,38016-0573,False
+MI,7418 Village Square Dr,West Bloomfield,48322,False
+WA,401 Collins Road,Toledo,98591,False
+NC,912 Granville Drive Southwest,Winston-Salem,27101,False
+CA,3384 Daley Center Drive,San Diego,92123,False
+VA,3507 Perry Street,Fairfax,22030,False
+MN,544 fair meadows drive,Big lake,55309,False
+CA,11 Ravensridge,Trabuco Canyon,92679,False
+NY,10330 68th Ave Apt 2E,Forest Hills,11375-3223,False
+GA,1770 Mission Park Ct,Loganville,30052-7512,False
+LA,11395 Rossow Ct,Denham Springs,70726-6965,False
+MI,705 Vassar Drive,Durand,48429,False
+OH,960 Francisco St,Cincinnati,45206-2661,False
+CA,364 Kenbrook Cir,San Jose,95111-3289,False
+MD,1927 W. Mulberry St,Baltimore,21223,False
+SC,204 Hope Creek Dr,Irmo,29063-9532,False
+FL,1920 Seagull Dr,Clearwater,33764,False
+NC,4914 Alexander Valley Drive,Charlotte,28270,False
+VA,"3980 Roundabout Rd,",Louisa,23093,False
+OK,704 N 2nd Ave,Purcell,73080-2626,False
+NY,25 Rensselaer Dr,Commack,11725,False
+NY,30 Park Pl,New York,10007-2559,True
+NJ,110 Pineway Dr,Forked River,8731,False
+CT,117 Henry St,New Britain,06051-3216,False
+AZ,5405 South 19th Avenue,Phoenix,85041,False
+IL,250 Pebble Creek Dr,Tower Lakes,60010-1368,False
+SC,312 Crestmont Way,Greenville,29615-5055,False
+IL,4617 N Dover Unit 3W,Chicago,60640,False
+AL,359 County Road 601,Enterprise,36330-0501,False
+MI,14040 Woodside St,Livonia,48154-5270,False
+NJ,25 Montrose Ave,Colonia,7067,False
+MA,225 Maple St,Warren,01083-7921,False
+MN,1414 Laurel Avenue West,Minneapolis,55403,False
+NY,1146 Fairdale Glen,Farmington,14425,False
+AK,436 7th street,Kotzebue,99752,False
+NV,431 Spring Villas Dr,Sparks,89431-5418,False
+CA,10065 De Soto Ave Unit 305,Chatsworth,91311-3144,False
+ME,3 Zylar Dr,Windham,04062-5918,False
+NY,6257 60th Ave,Maspeth,11378-3424,False
+TN,1001 Reese Dr,Franklin,37069,False
+OH,104 Mill St,Mount Orab,45154-8014,False
+VT,1611 Hinman Settler Rd,Newport,05855-4522,False
+NY,795 Swart Hollow Rd,Oneonta,13820-3719,False
+CA,50049 Mudge Lane,Coarsegold,93614,False
+AL,1442 Columbus City Rd,Scottsboro,35769-9015,False
+TX,347 Lakeside Dr,Cuero,77954-6409,False
+TX,2331 Bluffridge Street,San Antonio,78232,False
+GA,15 pine street,Ringgold,30736,False
+AL,106 Donash Cir,Madison,35758-7644,False
+TX,3810 Pecan Ct,Manvel,77578-3223,False
+FL,6563 Rosecliff Dr,Orlando,32835,False
+OH,5209 Gobel Dr,Groveport,43125-9663,False
+WA,622 E Kennaston Ave,Montesano,98563-1818,False
+IN,1512 W 3rd St.,Marion,46952,False
+IL,5198 W Orchard Dr,Mccullom Lake,60050,False
+CA,33340 Bailey Meadow Road,Palomar Mountain,92060,False
+TX,8925 Stewart Street,Crossroads,76227,False
+IL,408 Scenic Park Dr,CREVE COEUR,61610,False
+CA,4860 1/2 Tujunga Ave,North Hollywood,91601,False
+KY,66 Roselawn Dr,Independence,41051-9287,False
+SC,113 East St,Heath Springs,29058-8957,False
+AL,151 Jenkins Rd,Opelika,36804-1857,False
+GA,702 Marquis Way,Morrow,30260-4143,False
+MD,9245 Deepwater Point Rd,Saint Michaels,21663-2305,False
+TX,8616 Whispering Trail,Austin,78737,False
+VA,123 Butterfly Ln,Ivanhoe,24350-3530,False
+SC,261 Pipeline Road,Aiken,29801,False
+MI,48239 Prestwyck Drive,Macomb,48044,False
+NC,5013 Lee Drive,Garner,27529,False
+WA,1207 W Alice Ave,Spokane,99205,False
+IA,1507 Main St,Emmetsburg,50536-1649,False
+NY,268 Surrey Hill Way,Rochester,14623,False
+IA,1401 MARINA COVE DR,Polk City,50226,False
+SC,109 Marvin Rd,Eutawville,29048-9190,False
+TX,11631 Landsdowne Dr,Houston,77035-2517,False
+MD,1219 Arcola Ave,Silver Spring,20902,False
+CA,947 Snowgoose Lane,Manteca,95337,False
+CA,306 N Santa Rosa Ave,Modesto,95354-1448,False
+TN,433 Poplar St,Ridgely,38080-1611,False
+AR,110 North Summit Drive,Cabot,72023,False
+LA,3215 Knight St Apt 322,Shreveport,71105-2715,False
+CA,2304 Perkins Ln,Redondo Beach,90278-2606,False
+IL,11 Northern Dr,Decatur,62521-4664,False
+TN,3100 W End Cir,Nashville,37203-1413,False
+PA,3667 Sycamore Grove Road,Chambersburg,17202-9697,False
+CA,875 S Newhaven Dr,Orange,92869-5443,False
+MA,14 Nightingale Road,Plymouth,2360,False
+WI,183 W Armour Ave,Milwaukee,53207-5823,False
+IN,10560 Brems Ct.,Osceola,46561,False
+PA,57 Hampshire Dr,New Oxford,17350-8756,False
+NY,2432 E 23rd St 2 FLAPT. 2R,Brooklyn,11235-2511,True
+CA,1325 N. Harrison St.,Stockton,95203,False
+WA,9604 Fauntleroy Way SW,Seattle,98136-2742,False
+WI,710 Bergen St,Madison,53714-3012,False
+IL,708 South Prairie Street,Jerseyville,62052,False
+FL,24424 SW 115th Ct,Homestead,33032-4630,False
+NE,18493 SW 100th St,Crete,68333-3361,False
+NC,200 Gaillardia Way,Clayton,27527-6704,False
+OH,1164 Dickens Dr Apt L,Fairborn,45324-8798,True
+IL,1350 N Astor St Apt 4A,Chicago,60610-2131,False
+MI,13985 18 mile rd,Gowen,49326,False
+PA,64 Doe Run Lane,Pottstown,19464,False
+OH,16901 Aldersyde Dr,Cleveland,44120-2519,False
+OH,114 E Lane Ave,Columbus,43201-1250,False
+VA,335 Wickham St,South Boston,24592-2220,False
+ND,1701 4th ave East,west fargo,58078,False
+GA,3736 salem chapel drive,Lithonia,30038,False
+NJ,144 Midland Avenue,Park Ridge,7656,True
+MA,15 Denmark St,Dedham,02026-2406,False
+WA,140 23rd Ave. S,Seattle,98144,False
+IN,66 NW I St,Richmond,47374-2114,False
+OH,232 Westview Dr,West Union,45693-9511,False
+GA,107 windchime ct,Guyton,31312,False
+WI,6393 E Cutter Rd,South Range,54874,False
+CA,23220 Cass Ave,Woodland Hls,91364,False
+IL,3636 W Dickens Ave,Chicago,60647-3619,False
+IN,1433 W Main St 3g,Carmel,46032,True
+FL,5300 SW 5th St,Coral Gables,33134-1120,False
+VA,2606 Armada St,Herndon,20171,False
+FL,919 lawton ct,Fort Walton Beach,32547,True
+NY,283 Bainbridge Street,Brooklyn,11233,False
+IL,1103 e 194th pl,Glenwood,60425,False
+LA,4354 Park drive,Fordoche,70732,False
+OR,6311 Onyx Ave,Klamath Falls,97603-7658,False
+NV,1142 Glacier Park Ct,Henderson,89052,False
+CA,3527 vane ave,Rosemead,91770,False
+MO,4120 s hillcrest Ave,Springfield,65807,False
+CA,153 Mule Deer Ct,Blythe,92225-3379,False
+LA,200 Papworth Ave,Metairie,70005-3656,False
+NY,24 Baymens Ct,Sayville,11782-2601,False
+CA,1807 Olympus Loop Dr,Vista,92081-5447,False
+SD,2416 Prairie Eagle Cr W,Huron,57350,False
+TX,1421 Lawrence Rd,River Oaks,76114-2223,False
+CA,24255 Pacific Coast HWY,Malibu,90263,False
+FL,4714 S Dawnmeadow Ct,Plant City,33566-1213,False
+UT,4065 W Jeremy Woods Dr,Park City,84098-4848,False
+NJ,200 Hillcrest Ave,Wyckoff,07481-3213,False
+FL,7921 Fairway Blvd,Miramar,33023-6417,False
+NC,8651 Stephens Church Rd,Wilmington,28411-7982,False
+FL,1116 E Park St,Panama City,32404-7124,False
+IN,3064 Cordele St,Portage,46368-4562,False
+KS,2603 CR 13,Ashland,67831-3136,False
+CA,1700 Montevina Circle # 1410,Oxnard,93030,False
+IL,2721 West Melrose Street,Chicago,60618,False
+IN,2251 Rippling Way Ct,Indianapolis,46260-6551,False
+MA,26 Fisherdick Rd,Ware,01082-9775,False
+AZ,8808 N 46th Dr,Glendale,85302-5219,False
+TX,12749 Bunyan Way,El Paso,79928-5103,False
+MI,6112 Viewpoint Dr NE,Belmont,49306-9483,False
+CA,1332 1/2 S Cloverdale Ave,Los Angeles,90019,False
+TX,824 Bretallow Drive,Celina,75009,False
+NC,1623 Bitter Creek Drive,Charlotte,28214,False
+CA,16250 County Road 85B,Esparto,95627-2158,False
+PA,151 Wheaten Way,Latrobe,15650-9580,False
+NC,2008 Atherton Heights Lane,Charlotte,28203,False
+MA,99 Pine St,Seekonk,02771-4008,False
+IL,1970 Miner St,Des Plaines,60016-8403,False
+CT,603 California St,Stratford,06614-4908,False
+CO,7830 W 119th Pl,Broomfield,80020-2731,False
+AZ,108 N GREENFIELD RD,Mesa,85205-7823,False
+PA,3 Barry Circle,Shippensburg,17257,False
+SC,3730 Blackjack Rd,Ladson,29456,False
+LA,148 Crepemyrtle Road,Covington,70433,False
+GA,2057 Hightower Rd,Statesboro,30458-2484,False
+CA,1210 North Cherokee Avenue,Los Angeles,90038,False
+KS,1905 2nd Ave,Leavenworth,66048-4478,False
+CA,2301 Termino Ave.,Long Beach,90815,False
+KY,475 Schoolhouse Branch Rd,Manchester,40962-6314,False
+KY,765 Crescent Valley Dr,Jackson,41339-6518,False
+TN,721 Powder Branch Rd,Elizabethton,37643-5054,True
+NC,326 Troy Landing,Winston Salem,27107,False
+CA,933 W Clarence Ct,Santa Maria,93458-7496,False
+KS,5501 9th st.,GREAT BEND,67530,False
+IN,19800 Bluff Dr,Goshen,46526,False
+OH,5125 grants Frederick,South Lebanon,45065,False
+FL,1020 Meridian Ave,Miami Beach,33139-8330,False
+OH,67109 Woodfield Dr,New Plymouth,45654-8001,True
+IL,6 Skyview Drive,Springfield,62702,False
+FL,1267 Countrymen Court,Apopka,32703,False
+PA,3615 Winona St,Philadelphia,19129,False
+GA,198 Mathis Lake Rd,Thomaston,30286-5218,False
+NJ,232 Freeman Ave,Jersey City,07306-7004,False
+NY,192 Sapbush Rd,Chenango Forks,13746,False
+CO,4836 Bryant Street,Denver,80221,False
+CA,1599 Mono Ave,San Leandro,94578-2018,False
+MS,1319 Highway 19 S,Meridian,39301-8226,False
+KY,103 Clair Ct,Elizabethtown,42701-7336,False
+GA,20 Franklin Ave,Lakeland,31635-5635,True
+CA,1161 Madrone Ln,Placerville,95667,False
+IL,10720 S Wood St,Chicago,60643-3416,False
+WI,135D Grand Canyon dr,Baraboo,53913,False
+NJ,184 Lower Oak Grove Rd,Frenchtown,08825-4207,False
+MI,4200 Dartmoor Ln,Jackson,49203-5121,False
+OK,2303 Mallard,Duncan,73533-1386,False
+FL,8295 SW 77th Ct,Ocala,34476,False
+CA,10176 Marysville Rd,Dobbins,95935-9709,False
+AK,653 Atlas Loop,Eielson Afb,99702-1024,False
+OR,3181 NE 23rd St,Gresham,97030,False
+SD,2301 S Ellis Rd,Sioux Falls,57106-7065,False
+TX,3701 Faulkner Dr,Rowlett,75088-6083,False
+CO,8955 Goosander Way,Littleton,80126-5258,True
+TX,24114 Bay Hill Blvd,Katy,77494-6176,False
+CA,2 Freda Ct,Chico,95928-6807,False
+GA,491 Puckett Rd SE,Emerson,30137-2266,False
+MD,1215 Palmer Road,Fort Washington,20744,False
+MO,545 E Center St,Mount Vernon,65712-1207,False
+FL,5881 Cheshire Cove Ter,Orlando,32829-8833,False
+SC,310 Mahaffey Road,Williamston,29697,False
+NJ,2 federal,newark,7101,False
+TX,1500 E. Riverside Dr. #404,Austin,78741,False
+FL,713 Live Oak Ln,Wildwood,34785-9364,False
+LA,423 Long Acre Drive,Bossier City,71111,False
+CA,1820 Joseph Dr,Moraga,94556-2711,False
+GA,280 Brentwood Drive,Thomson,30824,False
+FL,11011 Harts Rd,Jacksonville,32218-3737,False
+NC,8414 Moores Chapel Rd,Charlotte,28214,False
+CA,5005cimarrron st,Los Angeles,90062,False
+CA,1540 Vine St Apt 535,Los Angeles,90028,False
+TX,608 Caduceus Ln,Hurst,76053-5719,False
+TX,3107 Fort Worth Trail,Austin,78748,False
+AZ,2534 Boulder Ave,Kingman,86401-4704,False
+IN,2210 Northview Dr,Ferdinand,47532-9375,False
+PA,6233 Autumn View Dr,Linglestown,17112-1843,False
+GA,403 N Manilla Ave,Douglas,31533,False
+PA,302 Birch St,Scranton,18505-1210,False
+FL,7237 NW 1st Mnr,Plantation,33317-2272,False
+MN,7331 Berkshire Way North,Maple Grove,55311,False
+CA,5317 Silver Dr.,Santa Ana,92703,False
+MS,841 Caesar Road,Picayune,39466,False
+CA,3677 Donald Ave,Riverside,92503-4311,False
+MS,2808 North 19th Street,Ocean Springs,39564,False
+AL,2201 Vaughn Lakes Blvd,Montgomery,36117-4156,False
+FL,15216 Lakes of Delray Boulevard,Delray Beach,33484,False
+TN,702 Laurel Ln,Murfreesboro,37127-6552,False
+IL,1357 W Berwyn Ave Apt 1,Chicago,60640-2275,False
+PA,4581 Landisville Rd,Doylestown,18902,False
+OR,737 Pioneer Rd,Brookings,97415-0204,False
+CO,1770 Chestnut Place,Denver,80122,False
+VA,3400 Columbia Pike,Arlington,22204-2510,False
+KY,1539 Highway 761,Nancy,42544-8984,False
+NM,544 Madeira Dr SE,Albuquerque,87108-2980,False
+WA,16616 119th Avenue Ct E,Puyallup,98374-9500,False
+NY,18004 146th Ave,Jamaica,11434-5308,False
+CA,2875 Channel Reef ave,Tulare,93274,False
+IL,5841 N Rockwell St,Chicago,60659-4990,False
+IN,2657 Wynterpointe Ct,Kokomo,46901-7711,False
+CA,408 Bluerock Dr,Antioch,94509-6926,False
+NH,7 Celtic Street,Concord,3301,False
+NC,300 Lighthouse Ln,Swansboro,28584-8833,False
+UT,745 north Jackson Avenue,Ogden,84404,False
+FL,4905 Imperial Palm Drive,Largo,33771,False
+FL,1414 10th St,Clermont,34711,False
+CO,1225 Cumberland Street,Colorado Springs,80907,False
+MI,3152 S Belsay Rd,Burton,48519-1620,False
+NY,36 Crestwood Dr,Shirley,11967,False
+NC,4596 Burns Rd,Granite Falls,28630-8143,False
+OK,1508 Creekside Dr,Norman,73071,False
+CA,711 Vinca Ct,Gilroy,95020-3406,False
+IL,1114 Pearl St,Aurora,60505-5612,False
+NY,1354 Wollock Rd,Watkins Glen,14891,True
+TX,802 E Henrietta Ave,Kingsville,78363-4648,False
+TX,2601 Francisco Street,Austin,78702,False
+MD,910 Walnut St,Frederick,21703-8431,False
+WI,N82W15837 Apple Valley Drive,Menomonee Falls,53051,False
+NH,35 Prospect St,Somersworth,03878-2763,False
+IL,2405 Wembly Rd,Springfield,62703-4463,False
+CA,928 E. Cottonwood St.,Ontario,91761,False
+TX,11372 Carissa Dr,Dallas,75218-1314,True
+GA,1230 Lake Douglas Rd,Bainbridge,39819-4797,False
+GA,1004 South Coffee Ave,Douglas,31533,False
+MI,5195 Callahan Rd,Albion,49224-9197,False
+NJ,1028 Bergen Blvd,Fort Lee,7024,False
+NY,9 Oak Point Dr S,Bayville,11709-1109,False
+NY,20 Seaman Ave,New York,10034-2923,False
+MA,24 Mildred Ave,Boston,2126,False
+NJ,4 Windemere Ave,Mount Arlington,07856-1125,False
+CO,1520 Grape St. Apt. 1,Denver,80220,False
+CA,5571 Norma Dr,Westminster,92683-2430,False
+CA,424 S Verdugo Rd Apt 4,Glendale,91205,False
+IL,3744 W 84th St,Chicago,60652-3263,False
+AZ,17509 W Pinnacle Vista Dr,Surprise,85387-1133,False
+OH,6940 Mesquite Ct,Dublin,43017,False
+MD,8624 Beech Tree Rd,Bethesda,20817-2905,True
+CA,1327 Crenshaw Blvd,Los Angeles,90019-4393,True
+GA,137 Ashford Pk,Macon,31210,False
+TN,432 Giltedge Rd,Munford,38058-6014,False
+RI,11 Granada Terrace,Middletown,2842,False
+SC,73 Baywood Dr,Bluffton,29910-5949,False
+MO,1913 Park Avenue,Saint Charles,63301,False
+GA,1950 Howell Mill Rd NW,Atlanta,30318-2737,False
+FL,7919 landsdowne lane,New port richey,34654,False
+MA,20 South St,Grafton,01519-1103,False
+CO,box 771997,Steamboat Springs,80477,False
+SC,5368 Copley Cir,Summerville,29485-8787,False
+FL,13808 SW 276th St,Homestead,33032-3209,False
+CO,3302 West 109th Circle,Westminster,80031,False
+VA,33988 Austin Grove Rd.,Bluemont,20135,False
+LA,Magnolia Place 1001 E Dale St Apt 811,New Iberia,70560-4871,False
+WA,6736 132nd Pl SE,Newcastle,98059,False
+MO,20 Olendorf Avenue,St. Peters,63376,False
+VA,13214 Hardy Road,Hardy,24101,False
+VA,9251 Dawkins Crest Circle,Bristow,20136,False
+LA,15241 Schafer Ave,Baton Rouge,70816-1379,False
+NC,354 Gilchrist Rd. Cameron N.C.,Cameron,28326,False
+IL,219 N Ash Street,Elizabeth,61028,False
+NJ,173 Sherman Ave,Paterson,07502-1753,False
+CA,12311 Chandler Blvd,Valley Village,91607-4347,False
+OH,1610 Parkamo Ave,Hamilton,45011-4608,False
+PA,8 Campbell Drive,Avella,15312,False
+NC,2223 Preakness Ct,Charlotte,28273-6739,False
+NY,179 Beach 97th St,Rockaway Beach,11693-1323,False
+MD,13712 Port Commerce Court,Accokeek,20607,False
+MI,23105 Providence Dr,Southfield,48075-3623,False
+AZ,14422 N 62nd Ave,Glendale,85306-4150,False
+VA,2815 Poyntelle Road,Richmond,24235,False
+NY,7 Longview Rd,Port Washington,11050,False
+CA,418 North Main Street,Corona,92880,False
+WA,3612 Palatine AVE N,Seattle,98103,False
+SD,400 E Maple St,Beresford,57004-2200,False
+NY,240 W. 111th St,New York,10026,False
+OK,13331 N. MacArthur Blvd,Oklahoma City,73142,False
+KS,521 N Durham St,Ulysses,67880-1955,False
+OH,4010 Via Cassia,Youngstown,44514-5349,True
+PA,57 Dorchester Rd,Collegeville,19426-3441,False
+CA,1838 Center St,Rosamond,93560-6189,False
+OR,6625 Lakeside Dr NE,Salem,97305-9598,False
+LA,4504 Bayou Des Familles Drive,Marrero,70072,False
+GA,441 Lake Dr,Atlanta,30354-1265,False
+SC,2106 Coffey Ct,Charleston,29414-6154,False
+OK,188 S Hwy 82a,Langley,74350,False
+KS,21602 South Main Street,Spring Hill,66083,False
+NJ,A Hensyn Vlg,Budd Lake,07828-3702,False
+MI,18454 Beech Daly Rd,Redford,48240-1803,False
+NC,2970 carriage dr,Winston Salem,27106,False
+TN,830 Browntown Rd,Sparta,38583-6556,False
+IL,219 N Ash St,Elizabeth,61028-9103,False
+FL,779 Daisy Hill Ct,Apopka,32712,False
+MN,4623 Humboldt Ave. S.,Minneapolis,55419,False
+IN,217 West 8th Street,Rochester,46975,False
+TX,4541 NE STALLINGS DR,NACOGDOCHES,75965,False
+PA,42 Crawford Village,McKeesport,15132,False
+NJ,924 12th Ave,Toms River,08757-1840,False
+TX,9414 Wind Dancer,San Antonio,78251-4969,False
+NY,20 avenue b,albany,12208,True
+NY,4 Mulberry Ave,Staten Island,10314,False
+CA,9340 Foxy Ct,Patterson,95363-8601,False
+CO,24707 County Road 41,La Salle,80645-4408,True
+PA,320 W 2nd Ave,Du Bois,15801,False
+IA,8302 Westown Parkway 3109,West Des Moines,50266,False
+CA,1053 W Hamilton Ave,Campbell,95008-0320,False
+NE,3710 S 17th St,Lincoln,68502,False
+NY,1052 Flat Creek Rd,Gilboa,12076,False
+FL,18701 NE 3rd Ct Apt 111,Miami,33179-3804,True
+KS,3581 Pawnee,Ramona,67475-6005,False
+NJ,HORIZON HOUSE 2,FT LEE,7024,True
+NY,201 Prospect Ave,Buffalo,14201-1927,False
+TX,5621 Cojimar Dr,Mckinney,75070,False
+NY,262 Sunrise Ave,Sayville,11782-2026,False
+GA,2073 Reserve Pkwy,McDonough,30253,False
+GA,105 Stratford St E,Fitzgerald,31750-8736,False
+TX,8412 Memorial Lane,Plano,75024,False
+TX,102 Cheek Sparger Rd,Colleyville,76034,False
+WA,4313 Vista Place Northeast,Tacoma,98422,False
+IL,335 Adele Ave,East Saint Louis,62206-1507,False
+GA,10720 Wellington Dr,Covington,30014-8709,False
+VA,1519 Creek Ct,Williamsburg,23185-6281,False
+OH,308 Maple Dr,Frankfort,45628-9752,False
+PA,3988 Palmer Avenue,York,17408,False
+PA,116 green street,Bridgeport,19405,False
+IA,416 N Washington St,Conrad,50621-7797,True
+PA,783 Summer Valley Road,New Ringgold,17960,False
+TX,6808 Meadows West Drive S,Fort Worth,76132,False
+NJ,261 Locktown Sergeantsville Road,Stockton,8559,False
+VA,11321 Hunt Farm Ln,Oakton,22124-1202,False
+FL,2519 N Ocean Blvd,Boca Raton,33431,False
+GA,125 Dixie Meadow Ln,Carrollton,30117,False
+WI,2301 Washington St,Manitowoc,54220-4849,False
+CA,838 Damask Ct,Santa Maria,93458-7334,False
+IN,22259 Woodside Drive,Bristol,46507,False
+PA,1310 Overlook Dr,Clearfield,16830-1124,False
+IL,3305 W 85th Pl,Chicago,60652-3758,False
+MA,120 Thunder Rd,Sudbury,01776-1326,False
+WI,116 Fountain Hills Blvd,Wausau,54403,False
+VA,43804 Central Station Dr,Ashburn,20147-7398,False
+CA,8061 Hampshire Cir,La Palma,90623-2017,False
+CA,1524 Second Ave,Salinas,93905,False
+OK,2320 Deborah Lane,Edmond,73034,False
+SC,20 Coventry Lane,Greenville,29609,False
+IL,1616 North Western Avenue,Chicago,60647,False
+MD,505 Finsbury Rd,Silver Spring,20904-1019,False
+NY,6407 68TH AVE,GLENDALE,11385,False
+OR,2121 NW Raleigh St,Portland,97210-2148,False
+AZ,422 South Fremont Avenue,Tucson,85719,False
+IN,4225 E Miller Rd,Marengo,47140-8824,False
+NY,517 Commack Road,Deer Park,11729,False
+MD,11430 Abbottswood Ct,Upper Marlboro,20774-1654,False
+SC,1922 Liberty St,Columbia,29203,False
+NC,4708 Washboard Ln,Lenoir,28645-7525,False
+NV,7419 Treasure Chest St,Las Vegas,89139-5633,False
+TX,6912 Mill Falls Dr,Dallas,75248-2914,False
+CA,121 Olson Court,Vallejo,94589,False
+CO,1406 Rock Creek Rd,Gunnison,81230,False
+PA,1823 George Cir,Irwin,15642-4407,False
+DC,28 14th Street NE,Washington,20002,False
+TN,7214 Condra Dr,Harrison,37341-9370,False
+KY,420 Rocky Hollow Rd,Waynesburg,40489-9713,False
+IN,2023 Danbury Dr,Indianapolis,46231-1242,False
+UT,7650 S Euro Dr Apt C105,Midvale,84047-5059,True
+UT,1355 N 800 E Apt 15A,Logan,84341-2529,False
+NE,106 Littster Ave,Wallace,69169-4013,False
+AL,1746 Cherry Ave,Birmingham,35214-2504,True
+OH,3573 Dan Patch Ct,Fairfield Township,45011,False
+FL,15631 nw 52nd ave,Hialeah,33014,False
+NY,920 Prospect Avenue,Bronx,10459,False
+CA,17631 Calle Mazatan,Morgan Hill,95037,False
+CA,2600 Park Meadows Dr D 206,Bakersfield,93308,False
+GA,102 Jubilee Cir,Bonaire,31005,False
+CA,5310 CONCERTO CIR,CONCORD,94521,False
+KY,601 Flatwood Br,Van Lear,41265-9079,False
+FL,424 Penguin Dr,Satellite Beach,32937-3718,False
+CA,941 Frederick Street,Yuba City,95991,False
+FL,80 SW 91st Ave,Plantation,33324-2550,False
+TX,4202 Terlingua,Pasadena,77504,False
+LA,1605 Sunset Dr,Monroe,71202-3613,False
+MI,6845 Strawberry Ln,Clarkston,48348,False
+PA,272 Jackson St,Bristol,19007,False
+FL,953 N Galloway Rd,Lakeland,33810-2938,False
+VA,875 Woodcrest Loop,Culpeper,22701,False
+TN,120 E Swan St,Centerville,37033-1416,False
+MA,8 Independence Way Apt 329,Franklin,2038,False
+TX,53274 Lost Moccasin,Fort Hood,76544-4023,False
+FL,2800 N. Flagler Drive,West Palm Beach,33407,False
+MI,21700 Champaign,Taylor,48180,False
+CA,1773 Heritage Ln,Sacramento,95815-4952,False
+OH,7635 Harris Rd,Celina,45822-9369,False
+TX,9824 FM 607 N,Brownsboro,75756,False
+DE,21451 Donaway Rd,Georgetown,19947-2681,False
+MS,3113 N 3rd St,Ocean Springs,39564,False
+TX,1109 Danbury Ct,Pearland,77581-2461,False
+NE,1185 N 9th St,David City,68632,False
+GA,465 Black Mountain Rd,Toccoa,30577-7862,False
+SC,6 Orchard Circle,Edgefield,29824,False
+CA,6670 Evergreen Lane,Paradise,95969,False
+NY,211 W Park St,Canastota,13032-1229,False
+IL,11438 S Throop St,Chicago,60643-4454,False
+IL,1037 S Madison Ave,La Grange,60525-2854,False
+TX,11225 War Cloud Ave,El Paso,79936,False

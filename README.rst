@@ -39,6 +39,15 @@ Default: It will take the last column.
 Test size in Float Ex. 0.3 for 30% Test Size. Default: 0.25
 
 
+
+How to use:
+
+A demo data file is attached. After importing it in a variable as a pandas dataframe, call as...
+
+BasicAnalysis(df)
+
+This can be done after importing the package properly or using pip install
+
 ----
 
 README file for the task

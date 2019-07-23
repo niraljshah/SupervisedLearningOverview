@@ -7,19 +7,29 @@ if you are in a rush and your cat is on fire.
 
 This small package of merely few bytes and code written in less than 100 lines, provide you the overview of all fundamental metrics measured for almost all supervised learning method.
 
--------------------------------------------------------
-|	Models evaluated:	|	Metrics considered:	|
--------------------------------------------------------
-|					|					|
-|	Decision Trees		|	Accuracy			|
-|	Logistic Regression	|	Precision			|
-|	Naive Bayes		|	Jaccard Score		|
-|	SVM				|	F1_Score			|
-|	Neural Networks		|	R (Corr Coeff)		|
-|	K-NN				|	ROC AUC			|
-|	Random Forest		|	MSE				|
-|	Adaboost			|	Log Loss			|
--------------------------------------------------------
+
++---------------------+-----------------------+
+|  Models evaluated:  |  Metrics considered:  |
++=====================+=======================+
+|   Decision Trees    |        Accuracy       |
++---------------------+-----------------------+
+| Logistic Regression |        Precision      |
++---------------------+-----------------------+
+|     Naive Bayes     |      Jaccard Score    |
++---------------------+-----------------------+
+|         SVM         |        F1_Score       |
++---------------------+-----------------------+
+|   Neural Networks   |    R (Corr. Coeff.)   |
++---------------------+-----------------------+
+|         K-NN        |         ROC AUC       |
++---------------------+-----------------------+
+|    Random Forest    |          MSE          |
++---------------------+-----------------------+
+|       Adaboost      |        Log Loss       |
++---------------------+-----------------------+
+
+
+-------------------------------------------------------------------------------------------------------------------------
 
 Mandatory inputs required:
 A Pandas DataFrame

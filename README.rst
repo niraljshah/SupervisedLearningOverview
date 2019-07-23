@@ -1,9 +1,11 @@
 Performance Overview of Supervised Learning methods 
 ====================================================
 
-A small task of creating and uploading a pip-installable Python package, and by no means
-a substitute for `reading the documentation <https://packaging.python.org/tutorials/distributing-packages>`_, even
-if you are in a rush and your cat is on fire.
+Do not know which supervised learning method is good for your dataset?
+Would you like to know it in just few seconds?
+
+:Congratulations:
+  You are about to learn about a package which gives you the solution to all above problems!
 
 This small package of merely few bytes and code written in less than 100 lines, provide you the overview of all fundamental metrics measured for almost all supervised learning method.
 
@@ -35,7 +37,6 @@ This small package of merely few bytes and code written in less than 100 lines, 
   A Pandas DataFrame
 
 :Optional inputs in the given order:
-
   - Column numbers for the predictors in the form of a LIST 
       Default: It will take all columns except the last one.
   - Column number for the response in the form of a LIST
@@ -44,7 +45,7 @@ This small package of merely few bytes and code written in less than 100 lines, 
       Default: 0.25 (25% Test size) will be assumed.
 
 
-----
+-----
 
 README file for the task
 

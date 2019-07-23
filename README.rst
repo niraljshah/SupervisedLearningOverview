@@ -55,7 +55,7 @@ This small package of merely few bytes and code written in less than 100 lines, 
 .. image:: images/data.jpg
   :width: 800
 
-  Output will be:
+The output will be:
   
 .. image:: images/output.jpg
   :width: 1100

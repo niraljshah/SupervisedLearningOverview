@@ -48,13 +48,13 @@ This small package of merely few bytes and code written in less than 100 lines, 
   Solution: ``From BasicAnalysis.BasicAnalysis import BasicAnalysis``
  
 **Output:**
-  For the following kind of data:
-  .. image:: images/data.jpg
-     :width: 400
+For the following kind of data:
+.. image:: images/data.jpg
+   :width: 750
   
-  Output will be:
-  .. image:: images/output.jpg
-     :width: 400
+Output will be:
+.. image:: images/output.jpg
+   :width: 1090
 
 ------
 

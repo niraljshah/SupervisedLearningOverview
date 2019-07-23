@@ -45,7 +45,14 @@ This small package of merely few bytes and code written in less than 100 lines, 
       Default: 0.25 (25% Test size) will be assumed.
 
 
------
+-------------------------------------------------------------------------------------------------------------------------
+:How to install:
+  Type ``pip install BasicAnalysis`` in command line to install the package
+  To call the module from this package, type ``From BasicAnalysis import BasicAnalysis``
+  
+*Note : Some people had an issue with importing the module.*
+  Solution: ``From BasicAnalysis.BasicAnalysis import BasicAnalysis``
+-------------------------------------------------------------------------------------------------------------------------
 
 README file for the task
 

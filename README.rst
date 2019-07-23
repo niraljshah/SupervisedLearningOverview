@@ -38,11 +38,10 @@ This small package of merely few bytes and code written in less than 100 lines, 
 
   - Column numbers for the predictors in the form of a LIST 
       Default: It will take all columns except the last one.
-  
   - Column number for the response in the form of a LIST
-    Default: It will take the last column.
-  
-  - Test size in Float Ex. 0.3 for 30% Test Size. Default: 0.25
+      Default: It will take the last column.
+  - Test size in Float Ex. 0.3 for 30% Test Size.
+      Default: 0.25 (25% Test size) will be assumed.
 
 
 ----

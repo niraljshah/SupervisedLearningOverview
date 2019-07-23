@@ -31,22 +31,22 @@ This small package of merely few bytes and code written in less than 100 lines, 
 
 -------------------------------------------------------------------------------------------------------------------------
 
-Mandatory inputs required:
-A Pandas DataFrame
+:Mandatory inputs required:
+  A Pandas DataFrame
 
-Optional inputs in the given order:
+:Optional inputs in the given order:
 
-Column numbers for the predictors in the form of a LIST 
-Default: It will take all columns except the last one.
-
-Column number for the response in the form of a LIST
-Default: It will take the last column.
-
-Test size in Float Ex. 0.3 for 30% Test Size. Default: 0.25
+  - Column numbers for the predictors in the form of a LIST 
+      Default: It will take all columns except the last one.
+  
+  - Column number for the response in the form of a LIST
+    Default: It will take the last column.
+  
+  - Test size in Float Ex. 0.3 for 30% Test Size. Default: 0.25
 
 
 ----
 
 README file for the task
 
-Written in reStructuredText or .rst file, and used to generate the project page on PyPI.
+Written in reStructuredText or .rst file, and used to generate the project page on PyPI. Images coming soon...

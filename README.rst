@@ -49,11 +49,19 @@ This small package of merely few bytes and code written in less than 100 lines, 
 
 :How to install:
   Type ``pip install BasicAnalysis`` in command line to install the package
+  
   To call the module from this package, type ``From BasicAnalysis import BasicAnalysis``
   
 *Note : Some people had an issue with importing the module.*
   Solution: ``From BasicAnalysis.BasicAnalysis import BasicAnalysis``
+ 
+**Output:**
+  For the following kind of data:
+  .. image:: images/data.jpg
   
+  Output will be:
+  .. image:: images/output.jpg
+
 ------
 
 README file for the task

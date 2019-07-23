@@ -46,20 +46,19 @@ This small package of merely few bytes and code written in less than 100 lines, 
   
 *Note : Some people had an issue with importing the module.*
   Solution: ``From BasicAnalysis.BasicAnalysis import BasicAnalysis``
- 
+
+-------
+
 **Output:**
-
-
-For the following data:
-
-.. image:: images/data.jpg
-  :width: 800
- 
   Output will be:
   
 .. image:: images/output.jpg
   :width: 1100
 
+For the following data:
+
+.. image:: images/data.jpg
+  :width: 800
 
 ------
 

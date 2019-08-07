@@ -72,7 +72,7 @@ MAJOR UPDATE: 0.0.3 -> 0.1.0, BasicAnalysis -> basicanalysis
 ============================================================
 
 * Added class knn to run K-NN method to compare with multiple inputs
-* Added class knn_10fold to run K-nn method on training data with 10-fold cross validation and comparing multiple inputs.
+* Added class knn_10fold to run K-nn method on training data with 10-fold cross validation, comparing multiple inputs.
 
 ------
 
